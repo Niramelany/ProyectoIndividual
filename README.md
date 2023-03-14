@@ -13,11 +13,11 @@ En este repositorio se encuentran los siguientes archivos:
 5. Buscar el proyecto Visual > Clic derecho en Visual > 'Establecer como proyecto de inicio'
 6. Clic derecho en solución > Compilar solución
 
-#Requisitos para ejecutar el programa:
+# Requisitos para ejecutar el programa:
 * Microsoft Visual Studio 2019
 * Microsoft SQL Server 2019
 
-#Credenciales
+# Credenciales
 * Gerente    -->  Usuario: AllanM Contraseña: 12345
 * Cliente    -->  Usuario: dario18 Contraseña:12345
 * Secretario -->  Usuario: nira14  Contraseña:12345
