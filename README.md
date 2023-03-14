@@ -5,7 +5,7 @@ En este repositorio se encuentran los siguientes archivos:
 * Script de la BD
 * Código en C# 
 
-#Pasos para ejecutar el programa
+# Pasos para ejecutar el programa:
 1. Descargar el proyecto en .zip
 2. Extraer la carpeta
 3. Abrir Microsoft SqlServer y ejecutar el .sql llamado 'ScriptBD-SGAR'
